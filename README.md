@@ -1,6 +1,3 @@
-# smokers-vs-non-smokers-analysis
-Data analysis of smokers vs non-smokers by gender using Python, Pandas, and Matplotlib.
-
 # 📊 Smokers vs Non-Smokers Analysis
 
 ## Project Overview
@@ -89,3 +86,5 @@ This project demonstrates several fundamental data analysis skills:
 ## How to Run the Project
 
 Install the required libraries:
+•pandas
+•Matplotlib
